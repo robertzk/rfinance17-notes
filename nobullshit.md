@@ -42,3 +42,22 @@ Which open source tools off the shelf can we use to do binary classification
 on 10 million records?
 
 “I really use other people’s code. I can find open source code for what I want to do , and my time is much better spent doing research and feature engineering.” - Owen Zhang
+
+See the github repo:
+
+* [szilard/benchm-ml](https://github.com/szilard/benchm-ml)
+
+Algorithms considered were
+
+* BST-DT
+* RF
+* BAG-DT
+* SVM
+* ANN
+* KNN
+* BST-STMP
+* DT
+* LOGREG
+* NB
+
+See the cornell paper.
