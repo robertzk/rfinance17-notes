@@ -66,3 +66,7 @@ Other filters:
 
 Close to 11% are forwarded without any text. These are excluded.
 
+Plot.
+Fig 1. Avg email length over time.
+Year 2000 vs 2001.
+
