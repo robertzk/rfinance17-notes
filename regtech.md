@@ -11,3 +11,11 @@ Automated platform for parsing emails and producing summary stats would be highl
 * it can analyze vast quantities of textual data not amenable to human processing
 * does not require revelation of individual email content explicitly to monitor
 
+## Purpose
+
+Explore predictive power of employee emails. Can do:
+
+* Sentiment analysis.
+* Information conveyed by structural characteristics e.g. volume of email or length.
+* Other non-verbal indicators (shifting email network patterns, etc.)
+
