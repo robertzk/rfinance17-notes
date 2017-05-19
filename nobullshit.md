@@ -6,3 +6,9 @@ by Szilard Pafka.
 
 It is.
 
+"The only way is buy 100 servers, rent it on amazon in the cloud,
+install Hadoop or Spark. The only way to deal with such amounts of 
+data!"
+
+Szilard says f that. 
+
