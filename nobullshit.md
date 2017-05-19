@@ -73,3 +73,13 @@ Use all of the above and clever tuning and stacking.
 * xgboost
 * spark mllib
 * a few commercial ones
+
+These all promise you everything:
+
+* lightning fast
+* big data
+* large scale
+* optimized
+* distributed
+* scalable and fast
+
