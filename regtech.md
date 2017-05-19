@@ -112,3 +112,10 @@ Regressions against sotck returns v.s.
 R squared of 0.24
 
 * Email sentiment no longer significant indicator when controlled for email length.
+
+Table 3. Email content vs Factiva News Content
+
+```r
+stock_returns ~ header_sentiment + email_sentiment + email_length + total_emails
+```
+
