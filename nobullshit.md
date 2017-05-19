@@ -21,5 +21,6 @@ EC2 machine go up to 2TB RAM. You will be fine lol.
 
 ## Repos
 
-szilard/benchm-databases
+* [szilard/benchm-databases](https://github.com/szilard/benchm-databases)
+
 
