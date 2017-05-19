@@ -101,3 +101,14 @@ charts.PerformanceSummary(cbind(R.min.sd, R.min.es, R.erc.es, R.crra, R.rf), ...
 
 Missed.
 
+## Portfolio simulation
+
+Find no-skill managers:
+
+* Random portfolios to simulate portfolios of zero skil managers
+* Feasible portfolios by consturction
+* Monte Carlo requires a model spec
+* Time series dependency with bootstrap
+* No gurantee of a feasible portfolio with bootstrap or monte carlo
+* Understand impact of constaints
+
