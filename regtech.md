@@ -119,3 +119,12 @@ Table 3. Email content vs Factiva News Content
 stock_returns ~ header_sentiment + email_sentiment + email_length + total_emails
 ```
 
+## Summary
+
+* Net sentiment conveyed by employee sent emails is a sig predictor of stock return
+* Email length was stronger than net sentiment or msg body
+* Email content may be controlled or manipulated
+
+Thus we are also interested in the non-verbal interaction or network based
+indicators of potential trouble.
+
