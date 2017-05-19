@@ -19,3 +19,9 @@ Explore predictive power of employee emails. Can do:
 * Information conveyed by structural characteristics e.g. volume of email or length.
 * Other non-verbal indicators (shifting email network patterns, etc.)
 
+## Preview of results
+
+* Net sentiment conveyed by Enron employee email is a signicant predictor of stock-return perf
+* Email length stronger predictor of price decline than net sentiment
+* Try identify other potential indicators / predictors of escalating risk or malfeasance
+
