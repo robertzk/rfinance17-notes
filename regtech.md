@@ -70,3 +70,7 @@ Plot.
 Fig 1. Avg email length over time.
 Year 2000 vs 2001.
 
+Email lenght was stable at 400 characters per email mean but then as
+market declined **email length spiked upward**. Then when market went south
+**email lenght went way way down** ("come see me" etc)
+
