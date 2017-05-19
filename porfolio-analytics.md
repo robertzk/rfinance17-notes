@@ -71,7 +71,7 @@ Key of package is that it handles multi-objective problems very well.
 ## Portfolio optimization: CRRA
 
 Fourth order expansion of the constant relative risk aversion utility function
-as in Martellini and Ziemann (2010) and Boudt, Lu an d
+as in Martellini and Ziemann (2010) and Boudt, Lu and [didnt catch].
 
 "An objective function is any valid R function. Just have to hand it to the optimizer
 and go find me the thing that minimizes or maximizes it."
