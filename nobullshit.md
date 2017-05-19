@@ -17,4 +17,5 @@ Most "big data" tools are hard to use.
 "It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
 "It's not always the size that matters ;)" - Szilard Pafka
 
+EC2 machine go up to 2TB RAM. You will be fine lol.
 
