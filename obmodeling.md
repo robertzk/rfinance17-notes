@@ -56,3 +56,4 @@ Insert nice little graph.
 ## Install
 
 devtools::install_github("jmazar/obmodeling")
+
