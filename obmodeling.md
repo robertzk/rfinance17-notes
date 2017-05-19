@@ -47,3 +47,12 @@ chart.dpeth("ESH6")
 
 Insert nice little graph.
 
+## Future analysis
+
+* Market toxicity
+* Event analysis
+
+
+## Install
+
+devtools::install_github("jmazar/obmodeling")
