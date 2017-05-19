@@ -35,3 +35,11 @@ type.market <- "options"
 #df.out <- ghfd_get_HF_data(
 ```
 
+## Next steps
+
+* Implement order data
+* Estimats of order book states
+* Quoting strategies and intensity
+* Interface with highfrequency package
+* Distribute whole dat at 5min, 10min, 15min
+
