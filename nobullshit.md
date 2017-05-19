@@ -29,4 +29,11 @@ Check out [Szilard's github](https://github.com/szilard).
 
 "data.table is one of the fastest things for any kind of aggregation and joins with."
 
+## Summary / tips
+
+* Get lots of RAM physical / cloud
+* Use R/Py and high perf pkgs (data.table, xgb)
+* Do data reduction in db
+* Missed last 4
+
 
