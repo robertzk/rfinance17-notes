@@ -23,8 +23,10 @@ EC2 machine go up to 2TB RAM. You will be fine lol.
 
 * [szilard/benchm-databases](https://github.com/szilard/benchm-databases)
 * [szilard/benchm-ml](https://github.com/szilard/benchm-ml)
+* [szilard/dataset-sizes-kdnuggets](https://github.com/szilard/dataset-sizes-kdnuggets)
 
 Check out [Szilard's github](https://github.com/szilard).
 
 "data.table is one of the fastest things for any kind of aggregation and joins with."
+
 
