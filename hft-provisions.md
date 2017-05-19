@@ -16,3 +16,12 @@ Passive and aggresive sides of a trade. More directly related to broker behavior
 Difficult to measure without persistent broker identification of an unfragmented market
 (which we have).
 
+## Dataset
+
+Every trade from the ASX, Australian stock exchange, from 2013. Features:
+
+* Identifiers for the buyer and seller of trades
+* Marked with agg/pass
+* Relatively unfragmented market -- data captures almost complete picture of trading activity
+* 8 Known proprietary HFTs (de-identified)
+
