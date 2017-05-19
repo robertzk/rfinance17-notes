@@ -61,3 +61,7 @@ Algorithms considered were
 * NB
 
 See the cornell paper.
+
+## For winning Kaggle
+
+Use all of the above and clever tuning and stacking.
