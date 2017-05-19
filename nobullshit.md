@@ -19,3 +19,7 @@ Most "big data" tools are hard to use.
 
 EC2 machine go up to 2TB RAM. You will be fine lol.
 
+## Repos
+
+szilard/benchm-databases
+
