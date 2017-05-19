@@ -74,3 +74,5 @@ Email lenght was stable at 400 characters per email mean but then as
 market declined **email length spiked upward**. Then when market went south
 **email lenght went way way down** ("come see me" etc)
 
+Fig 2. Email sentiment and disagreement over time
+
