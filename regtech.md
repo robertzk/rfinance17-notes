@@ -96,6 +96,19 @@ Fig 7. Stock returns & email length over time
 
 * moving avg email length across all employees
 * moving avg stock returns for enron over time
-ig 8. Sotckp price and email lenght over tie
+
+Fig 8. Stock price and email lenght over tie
 
 * as malfeasance escalated, **emails became shorter**
+
+Table 2. Email Content and Stock Returns
+
+Regressions against sotck returns v.s.
+
+* email sentiment
+* email length
+* total emails
+
+R squared of 0.24
+
+
