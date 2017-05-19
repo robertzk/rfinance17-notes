@@ -36,5 +36,7 @@ Quantitative features
 
 Spoiler: NO! Do you own due diligence.
 
+## Missed slides
 
+Some graphs and things on portfolio optimization I wasn't able to catch.
 
