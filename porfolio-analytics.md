@@ -112,3 +112,4 @@ Find no-skill managers:
 * No gurantee of a feasible portfolio with bootstrap or monte carlo
 * Understand impact of constaints
 
+Graph with simulation performance summary.
