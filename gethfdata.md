@@ -43,3 +43,4 @@ type.market <- "options"
 * Interface with highfrequency package
 * Distribute whole dat at 5min, 10min, 15min
 
+Book: Processing and Analyzing Financial Data with R
