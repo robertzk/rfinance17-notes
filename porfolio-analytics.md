@@ -40,3 +40,16 @@ Spoiler: NO! Do you own due diligence.
 
 Some graphs and things on portfolio optimization I wasn't able to catch.
 
+Idea: Smooth out cyclical nature of single factor indices to make
+a composite index.
+
+## Portfolio optimization
+
+```r
+library(PortfolioAnalytics)
+R.4f <- R[, four.factor]
+rp.seq <- generatesequence(min = 0, max = 1, by = 0.001)
+port.spec <- portfolio.spec(assets = colnames(R.4f), weight_seq = rp.seq)
+# some missed
+```
+
