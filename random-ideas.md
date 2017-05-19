@@ -25,8 +25,8 @@ it should be possible to use Syberia to make an "email analysis engine":
 * Add text mining feature engineering in lib/mungebits
 * Add an "email report" stage to make ggplot2 and/or markdown document
 
-Then you can feed in arbitrary email data sets for any organization and correlate
-against Y (stock price, internal KPI's, etc.)
+Then you can feed in [arbitrary email data sets](https://www.cs.cmu.edu/~./enron/)
+for any organization and correlate against Y (stock price, internal KPI's, etc.)
 
 Happy email data mining!
  
