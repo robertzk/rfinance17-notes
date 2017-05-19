@@ -14,3 +14,19 @@ optimal trading strategies, and a separate team of "trading data engineers,"
 i.e., low-level distribution systems developers are
 defining the transpilation layer that creates custom FPGAs
 to execute the trading strategies in microseconds.
+
+## Enron email analysis
+
+Based on [Seoyoung Kim's talk](https://github.com/robertzk/rfinance17-notes/blob/master/regtech.md),
+it should be possible to use Syberia to make an "email analysis engine":
+
+* Inherit from modeling engine
+* Provide standard datasets and import adapters for common anonymized email corpi
+* Add text mining feature engineering in lib/mungebits
+* Add an "email report" stage to make ggplot2 and/or markdown document
+
+Then you can feed in arbitrary email data sets for any organization and correlate
+against Y (stock price, internal KPI's, etc.)
+
+Happy email data mining!
+ 

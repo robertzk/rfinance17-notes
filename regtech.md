@@ -137,3 +137,26 @@ Fig 11. Email networks
 Fig 12. She had no figure 12....
 Fig 13. Vocabulary trends
 "profits" -> how does trending of that word across email make an impact?
+
+Fig 14. Topic Analysis over Time 
+Latent Dirichlet Allocation
+
+* Topics assigned via latent dirichlet allocation.
+
+## Concluding remarks
+
+* Introduced automated platofmr to parse corporate email content,
+find that net sentiment conveyed by emails is timely indicator of stock
+return performance.
+* Non verbal indicators are promising avenue.
+* We suggest the promise of a regulary technology approach
+by which to systematically parse email content and network
+structure to detect indicators of risk or malfeasance on an ongoing
+and timely basis.
+
+## Q & A 
+
+* Data set was 1GB
+* Used ggplot2 a lot.
+
+
