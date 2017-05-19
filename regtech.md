@@ -111,4 +111,4 @@ Regressions against sotck returns v.s.
 
 R squared of 0.24
 
-
+* Email sentiment no longer significant indicator when controlled for email length.
