@@ -62,7 +62,9 @@ Other filters:
 * 113266 sent emails
 * 114 employees
 
-##  Notes
+##  Notes on figures
+
+These went really quick so hard to get detailed notes.
 
 Close to 11% are forwarded without any text. These are excluded.
 
