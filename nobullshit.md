@@ -36,4 +36,8 @@ Check out [Szilard's github](https://github.com/szilard).
 * Do data reduction in db
 * Missed last 4
 
+## Example 2
+
+Which open source tools off the shelf can we use to do binary classification
+on 10 million records?
 
