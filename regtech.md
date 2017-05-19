@@ -76,3 +76,5 @@ market declined **email length spiked upward**. Then when market went south
 
 Fig 2. Email sentiment and disagreement over time
 
+Fig 3. Factiva News Coverage over Time
+Weekly Time Series Plot of Articles Published
