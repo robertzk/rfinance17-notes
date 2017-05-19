@@ -25,3 +25,19 @@ Explore predictive power of employee emails. Can do:
 * Email length stronger predictor of price decline than net sentiment
 * Try identify other potential indicators / predictors of escalating risk or malfeasance
 
+## Enron corpus
+
+Initial sample:
+
+* Approx 500,000 emails
+* Jan 2000 - Dec 2001
+* First made public by FERC during investiguation
+* Carnegie Mellon CALO project
+
+Caveats:
+
+* Scrubbed for legal reasons to honor reqs from affeted employees
+* User fastow-a is missing
+* Email chatter surrounding Mr Skilling's sudden resig on 8/14/2001 has been expunged
+* Details regarding exclusion criteria are not public. So analys is exploratory and prescriptive
+
