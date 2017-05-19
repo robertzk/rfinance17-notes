@@ -84,3 +84,15 @@ optimize.portoflio.rebalancing
 normalizeWeights
 Return.portfolio
 ```
+Optimal weights plot:
+
+```r
+chart.Weights(...)
+
+```
+
+4-factor performance summary:
+
+```r
+charts.PerformanceSummary(cbind(R.min.sd, R.min.es, R.erc.es, R.crra, R.rf), ...)
+```
