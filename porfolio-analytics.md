@@ -53,3 +53,17 @@ port.spec <- portfolio.spec(assets = colnames(R.4f), weight_seq = rp.seq)
 # some missed
 ```
 
+Let's add some objectives.
+
+```r
+# minimum standard deviation portfolio
+port.min.sd <- add.objective(portfolio = port.spec, type = "risk", name = "StdDev")
+
+# 4 other examples on slides:
+# minimum expected shortfall (type = "risk", name = "ES")
+# component contribution to risk (standard deviation) (type = "risk_budget", name = "StdDev")
+# component contribution to risk (expected shortfall) (type = "risk_budget, name = ""ES")
+# constant relative risk aversion (type = "return", name = "CRRA")
+
+Key of package is that it handles multi-objective problems very well.
+```
