@@ -67,3 +67,20 @@ port.min.sd <- add.objective(portfolio = port.spec, type = "risk", name = "StdDe
 
 Key of package is that it handles multi-objective problems very well.
 ```
+
+## Portfolio optimization: CRRA
+
+Fourth order expansion of the constant relative risk aversion utility function
+as in Martellini and Ziemann (2010) and Boudt, Lu an d
+
+"An objective function is any valid R function. Just have to hand it to the optimizer
+and go find me the thing that minimizes or maximizes it."
+
+## Run optimizer
+
+```r
+# Uses the following functions from pkg, missed rest of slides
+optimize.portoflio.rebalancing
+normalizeWeights
+Return.portfolio
+```
