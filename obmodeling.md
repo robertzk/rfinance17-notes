@@ -26,3 +26,24 @@ ob <- getOB()
 names(ob$ESH6)
 ```
 
+## Current functions
+
+```r
+bidask.changes
+effective.spread
+load.quotes
+load.trades
+market.depth.stats
+quoted.spread
+ticks.wide
+trade.imbalance
+trade.size.stats
+```
+
+## Visualize Order Book
+```r
+chart.dpeth("ESH6")
+```
+
+Insert nice little graph.
+
