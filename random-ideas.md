@@ -41,3 +41,4 @@ add twitter paper
 
 "It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
 "It's not always the size that matters ;)" - Szilard Pafka
+“I really use other people’s code. I can find open source code for what I want to do , and my time is much better spent doing research and feature engineering.” - Owen Zhang
