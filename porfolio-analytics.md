@@ -96,3 +96,8 @@ chart.Weights(...)
 ```r
 charts.PerformanceSummary(cbind(R.min.sd, R.min.es, R.erc.es, R.crra, R.rf), ...)
 ```
+
+## Slide on 4Factor vs 6Factor
+
+Missed.
+
