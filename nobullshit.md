@@ -83,3 +83,4 @@ These all promise you everything:
 * distributed
 * scalable and fast
 
+Note: "random forest package is super slow in R" :(
