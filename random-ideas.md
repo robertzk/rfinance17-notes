@@ -30,3 +30,7 @@ against Y (stock price, internal KPI's, etc.)
 
 Happy email data mining!
  
+## No bullshit data science
+
+Based off Szilard Pafka's [no bullshit data science talk](https://github.com/robertzk/rfinance17-notes/blob/master/nobullshit.md).  
+
