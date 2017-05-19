@@ -32,5 +32,11 @@ Happy email data mining!
  
 ## No bullshit data science
 
-Based off Szilard Pafka's [no bullshit data science talk](https://github.com/robertzk/rfinance17-notes/blob/master/nobullshit.md).  
+Based off Szilard Pafka's [no bullshit data science talk](https://github.com/robertzk/rfinance17-notes/blob/master/nobullshit.md). Very similar
+to [Twitter's paper](http://www.umiacs.umd.edu/~jimmylin/publications/Lin_Kolcz_SIGMOD2012.pdf).
+add twitter papr
+* Define a "report and visualization" engine and grammar using controllers and resources.
+* Use that engine to 
 
+"It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
+"It's not always the size that matters ;)" - Szilard Pafka

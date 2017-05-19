@@ -12,3 +12,9 @@ data!"
 
 Szilard says f that. 
 
+Most "big data" tools are hard to use.
+
+"It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
+"It's not always the size that matters ;)" - Szilard Pafka
+
+
