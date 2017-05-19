@@ -1,4 +1,4 @@
-# obmodeling
+# [obmodeling](https://github.com/jmazar/obmodeling)
 
 An R pkg which uses xts to manipulate
 
