@@ -1,5 +1,7 @@
 # [GetHFData by Marcelo Perlin](https://cran.r-project.org/web/packages/GetHFData/index.html)
 
+## About GetHFData
+
 Cran pkg for importing and aggregating high freq trade data for Brazilian stock exchange
 
 Package works by creating an interface to Bovespa's FTP site
