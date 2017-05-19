@@ -41,3 +41,24 @@ Caveats:
 * Email chatter surrounding Mr Skilling's sudden resig on 8/14/2001 has been expunged
 * Details regarding exclusion criteria are not public. So analys is exploratory and prescriptive
 
+## Curing the data
+
+Focus on sent:
+
+* Analyze content written by enron employees
+* Avoid processing same content twice
+* User lay-k sends email to skilling-j
+
+Other filters:
+
+* Emails greater than 3000 chars in length
+* Emails sent to more than 20 recipients
+* News articles from Factiva PR
+* Sentiment dics from Harvard inquirer and Loghran and McDonald sentiment word list
+
+## Final sample
+
+* Enron email corpus from CM CS site
+* 113266 sent emails
+* 114 employees
+
