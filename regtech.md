@@ -32,7 +32,7 @@ Initial sample:
 * Approx 500,000 emails
 * Jan 2000 - Dec 2001
 * First made public by FERC during investiguation
-* Carnegie Mellon CALO project
+* [Carnegie Mellon CALO project data set](https://www.cs.cmu.edu/~./enron/)
 
 Caveats:
 
