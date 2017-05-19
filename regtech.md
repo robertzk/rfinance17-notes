@@ -130,3 +130,10 @@ indicators of potential trouble.
 
 "Not really look at email length. Look at what's abnormal based on
 a rolling basis relative to a training period."
+
+### Remainder
+
+Fig 11. Email networks
+Fig 12. She had no figure 12....
+Fig 13. Vocabulary trends
+"profits" -> how does trending of that word across email make an impact?
