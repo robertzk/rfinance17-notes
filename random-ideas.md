@@ -34,9 +34,10 @@ Happy email data mining!
 
 Based off Szilard Pafka's [no bullshit data science talk](https://github.com/robertzk/rfinance17-notes/blob/master/nobullshit.md). Very similar
 to [Twitter's paper](http://www.umiacs.umd.edu/~jimmylin/publications/Lin_Kolcz_SIGMOD2012.pdf).
-add twitter papr
+add twitter paper 
 * Define a "report and visualization" engine and grammar using controllers and resources.
-* Use that engine to 
+* Use that engine to replicate Twitter + Szilard's analysis
+* Export results as fancy reports, plots, etc. and get invited as a key note speaker to [R finance](http://www.rinfinance.com/)!
 
 "It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
 "It's not always the size that matters ;)" - Szilard Pafka
