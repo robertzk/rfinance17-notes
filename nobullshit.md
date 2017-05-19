@@ -41,3 +41,4 @@ Check out [Szilard's github](https://github.com/szilard).
 Which open source tools off the shelf can we use to do binary classification
 on 10 million records?
 
+“I really use other people’s code. I can find open source code for what I want to do , and my time is much better spent doing research and feature engineering.” - Owen Zhang
