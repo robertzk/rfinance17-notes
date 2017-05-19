@@ -25,6 +25,10 @@ Every trade from the ASX, Australian stock exchange, from 2013. Features:
 * Relatively unfragmented market -- data captures almost complete picture of trading activity
 * 8 Known proprietary HFTs (de-identified) [A-H]
 
+## Removed slides
+
+Lots of fancy graphs I couldn't capture.
+
 ## Packages used
 
 * bit64
