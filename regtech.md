@@ -78,3 +78,20 @@ Fig 2. Email sentiment and disagreement over time
 
 Fig 3. Factiva News Coverage over Time
 Weekly Time Series Plot of Articles Published
+
+Fig 4. Missed
+
+Fig 5. Stock Returns and Net Sentiment over time
+
+* Net sentiment across enron employee emails over time
+* Moving avg stock returns for enron over time
+
+Downward trend across both plots.
+
+Fig 6. Stock prices and net sentiment over time
+
+Fig 7. Stock returns & email length over time
+
+* moving avg email length across all employees
+* moving avg stock returns for enron over time
+
