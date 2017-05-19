@@ -128,3 +128,5 @@ stock_returns ~ header_sentiment + email_sentiment + email_length + total_emails
 Thus we are also interested in the non-verbal interaction or network based
 indicators of potential trouble.
 
+"Not really look at email length. Look at what's abnormal based on
+a rolling basis relative to a training period."
