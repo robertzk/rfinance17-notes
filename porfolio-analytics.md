@@ -113,3 +113,14 @@ Find no-skill managers:
 * Understand impact of constaints
 
 Graph with simulation performance summary.
+
+## Conclusion
+
+* Bottom up optimization
+* Better estimates and forecasts
+* Factor timing
+
+Tools available to apply quantitive rigor.
+
+Do your due diligence!
+
