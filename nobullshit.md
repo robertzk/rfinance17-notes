@@ -65,3 +65,11 @@ See the cornell paper.
 ## For winning Kaggle
 
 Use all of the above and clever tuning and stacking.
+
+* R pkgs
+* Python scitki-learn
+* Vowpal wabbit
+* h2o
+* xgboost
+* spark mllib
+* a few commercial ones
