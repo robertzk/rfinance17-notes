@@ -21,5 +21,20 @@ Top are:
 
 * Market, Size, Value, Momentum, Yield, Volatility, Quality, and Liquidty
 
+## Single factor indexes are not all equal
+
+Qualitative features
+
+* Similar factor defs but unique index construction process across providers
+* Different universe of assets depending on provider and parent index
+
+Quantitative features
+
+* Risk and return characteristics
+* Caveat of reling on historical backtest data, several of the indices
+  have less than 5 years of live performance data.
+
+Spoiler: NO! Do you own due diligence.
+
 
 
