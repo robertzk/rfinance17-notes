@@ -61,3 +61,28 @@ Realtime Deployment Models:
 * Stochastic boosting gradients
 * Etc.
 
+# R studio integration
+
+```r
+library(RevoScaleR)
+conStr <- "Driver string"
+ds <- RxSqlServerData(sqlQuery = "SELECT revol, ....")
+df <- rxImport(ds)
+rxSetComputeContext("local")
+dxForestModel <- rxDForest(is_bad ~ revol_util + ..., df)
+
+# Or train model remotely:
+sqlCC <- RxInSqlServer(connectingString = conStr)
+rxSetComputeContext(sqlCC)
+dForestModel <- rxDForest(is_bad ~ ..., ds)
+
+# Deploy model object and publish flexible and realtime services
+library(mrsdeploy)
+remoteLogin("http://foo:12800", username = "...", password = "...")
+pause()
+
+putLocalObject("dForestModel")
+```
+
+
+
