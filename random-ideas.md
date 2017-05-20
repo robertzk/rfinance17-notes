@@ -11,7 +11,7 @@ To use Syberia for HFT, here's one idea.
 
 In this vision, one team of quants and traders is identifying
 optimal trading strategies, and a separate team of "trading data engineers,"
-i.e., low-level distribution systems developers are
+i.e., low-level distributed systems developers are
 defining the transpilation layer that creates custom FPGAs
 to execute the trading strategies in microseconds.
 
