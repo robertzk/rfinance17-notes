@@ -24,3 +24,6 @@ Realtime:
 * Deploy as a web service with Microsoft R server
 * Deploy as a stored procedure in SQL server
 
+# LendingClub Loan Performance Data
+
+We use the [LendingClub Data](https://www.lendingclub.com/info/download-data.action).
