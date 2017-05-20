@@ -98,7 +98,12 @@ op1 < -regularServiceApi$rService(inputData = testData
 op1$outputParameters$prediction$is_bad_red
 
 rxPredict(dFOrestModel, td)
+
+all.equal(op1$outputParameters$prediction_is_bad_pred,
+          op2$outputParameters$outputData$is_bad_pred)
 ```
 
+A lot of ado about doing 100k's predictions per second 
+(he scaled the stateless app homogeneously and just batched...)
 
 
