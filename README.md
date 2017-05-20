@@ -8,6 +8,9 @@ Notes for R/Finance 2017 conference.
 * [Seoyoung Kim: Zero-Revelation RegTech: Detecting Risk through Linguistic Analysis of Corporate Emails and News](regtech.md)
 * [Szilard Pafka: No-Bullshit Data Science](nobullshit.md)
 * [Ross Bennett: PortfolioAnalytics Tutorial](portfolio-analytics.md)
+* [David Smith: Detecting Fraud at 1 Million Transactions per Second](loanprediction.md)
 
 And some [random ideas](random-ideas.md) just for fun!
 
+Check out the [MicrosoftR](https://github.com/robertzk/MicrosoftR) engine that we built in 
+15 minutes after [David Smith's talk](loanprediction.md)
