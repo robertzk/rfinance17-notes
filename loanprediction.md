@@ -16,4 +16,11 @@ Realtime:
 * Latency is the key metric here
 * Maybe applications require sub-second latency at endpoint
 
+# Real-time operationalization options
+
+* Rewrite prediction code in some other language
+* PMML / C++ / Java / ....
+* OR, use your R code:
+* Deploy as a web service with Microsoft R server
+* Deploy as a stored procedure in SQL server
 
