@@ -27,3 +27,37 @@ Realtime:
 # LendingClub Loan Performance Data
 
 We use the [LendingClub Data](https://www.lendingclub.com/info/download-data.action).
+
+# Operationalization with Microsoft R Server
+
+Data scientist publishes R function into web services.
+IT administration configures Microsoft R Server for
+operationalizing R analytics. Configures a data science
+virtual machine, Azure GS5 instance, 32 cores, 448GB RAM.
+
+Then for consumption, we explore and consume services in R directly
+using the mrsdeploy package. Or we can integrate with apps using
+Swagger API service and consume with any programming language.
+
+# Some examples 
+
+An R intepreter is spawned on-demand using Swagger via REST API
+
+```r
+library(mrsdeploy)
+publishService(serviceType = "Script", Code = "R script or Function")
+publishService(serviceType = "RealTime", model = "R object")
+```
+
+RevoScaleR or MicrosoftML models.
+Prediction engine.
+
+Realtime Deployment Models:
+
+* Linear Regression (rxLinMod, rxFastLinear)
+* Logistic Regression (rxLogit, rxLogisticRegression)
+* Classification / Regresion (rxDTree, rxFastTrees)
+* Classification / Regression forests (rxDForest, rxFastForest)
+* Stochastic boosting gradients
+* Etc.
+
