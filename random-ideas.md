@@ -55,5 +55,4 @@ All of the ideas in [David Smith's talk](https://github.com/robertzk/rfinance17-
 * Add a `deploy` global helper to use `library(mrsdeploy)` in lockbox.
 * Run R at scale!
 
-
-
+[Let's build it!](https://github.com/robertzk/microsoft.sy)
