@@ -42,3 +42,18 @@ add twitter paper
 "It takes a big man to admit his data is small" - Hadley Wickhan @jcheng
 "It's not always the size that matters ;)" - Szilard Pafka
 “I really use other people’s code. I can find open source code for what I want to do , and my time is much better spent doing research and feature engineering.” - Owen Zhang
+
+## [Revolution Analytics / Microsoft engine](https://github.com/robertzk/rfinance17-notes/blob/master/loanprediction.md)
+
+All of the ideas in [David Smith's talk](https://github.com/robertzk/rfinance17-notes/blob/master/loanprediction.md) on Loan Prediction in 1M Rows Per Second are easily translatable to Syberia.
+
+* Extend from the modeling engine and call it the "microsoft" engine.
+* Define custom import adapters using `rxInput`, etc.
+* Mungebits can probably stay the same but they have to fit into the serialized MicrosoftML model object
+* Classifiers can come from any `rxLinMod, rxFastLinear,` etc model. 
+* Export to a MicrosoftML or SQL Server object into a binary representation or Azure cloud.
+* Add a `deploy` global helper to use `library(mrsdeploy)` in lockbox.
+* Run R at scale!
+
+
+

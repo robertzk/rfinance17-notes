@@ -107,3 +107,5 @@ A lot of ado about doing 100k's predictions per second
 (he scaled the stateless app homogeneously and just batched...)
 
 
+
+
