@@ -82,6 +82,22 @@ remoteLogin("http://foo:12800", username = "...", password = "...")
 pause()
 
 putLocalObject("dForestModel")
+
+snapshot <- createSnapshot("dforest-model-snapshot")
+rCode <- "require(RevoScaleR); prediction <- rxPredict(dForestModel, inputData)"
+regularService <- "rService"
+version <- "1.0"
+regularServiceApi <- publishService(name = regularService,
+ v = version, code = rCode, snapshot = snapshot,
+ inputs = list(inputData = 'data.frame'),
+ output = list(prediction = 'data.frame'),
+ alias = 'rService')
+
+td <- head(df, n = 1)
+op1 < -regularServiceApi$rService(inputData = testData
+op1$outputParameters$prediction$is_bad_red
+
+rxPredict(dFOrestModel, td)
 ```
 
 
